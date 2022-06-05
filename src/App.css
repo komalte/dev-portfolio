@@ -12,6 +12,13 @@
   font-size:large;
 }
 
+.navbar-toggler {
+  margin-right: 1.5rem;
+  position: fixed;
+  left: 20rem;
+  top: 1rem;
+}
+
 .navbar__link {
   margin-left: 0.75em;
   margin-right: 0.75em;
@@ -64,6 +71,8 @@
   flex-grow: 1;
   justify-content: center;
   align-items: center;
+  width: 90%;
+  margin-left: 1rem;
 }
 
 .Typewriter {
@@ -105,6 +114,11 @@ section.timeline-card-content div.card-description > p {
   margin-top: 60px;
 }
 
+.p {
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
 
 @media only screen and (min-width: 768px) and (max-width: 992px) {
 
@@ -132,7 +146,7 @@ section.timeline-card-content div.card-description > p {
   .navbar__link--active::after {
     width: 0;
   }
-  
+
   .navbar__link--active:hover::after {
     width: 0;
   }
