@@ -2,15 +2,19 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/malte-kocinski/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/komalte"
+        },
+        {
+            "network": "instagram",
+            "href": "https://www.instagram.com/komalte/"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:malte.kocinski+github@googlemail.com"
         }
     ]
 }
