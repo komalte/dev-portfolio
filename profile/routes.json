@@ -1,0 +1,15 @@
+{
+    "sections": [
+        {
+            "component": "About",
+            "path": "/about",
+            "headerTitle": "About"
+        },
+        {
+            "component": "Skills",
+            "path": "/techandtools",
+            "headerTitle": "Techs & Tools"
+        }
+
+    ]
+}
