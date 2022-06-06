@@ -15,7 +15,11 @@
 .navbar-toggler {
   margin-right: 1.5rem;
   position: fixed;
+<<<<<<< HEAD
   right: 2rem;
+=======
+  left: 20rem;
+>>>>>>> parent of 7dd4453 (Updates)
   top: 1rem;
 }
 
