@@ -9,6 +9,11 @@
             "component": "Skills",
             "path": "/techandtools",
             "headerTitle": "Techs & Tools"
+        },
+        {
+            "component": "Projects",
+            "path": "/projects",
+            "headerTitle": "Projects"
         }
 
     ]
