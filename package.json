@@ -21,18 +21,6 @@
     "vertical-timeline-component-for-react": "^1.0.7",
     "web-vitals": "^1.0.1"
   },
-<<<<<<< HEAD
-  "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb": "^18.2.1",
-    "eslint-plugin-import": "^2.24.2",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-react": "^7.26.1",
-    "eslint-plugin-react-hooks": "^4.2.0",
-    "gh-pages": "^4.0.0"
-  },
-=======
->>>>>>> parent of 7dd4453 (Updates)
   "browserslist": {
     "production": [
       ">0.2%",
@@ -48,22 +36,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-<<<<<<< HEAD
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
-  },
-  "homepage": "https://komalte.github.io"
-=======
     "eject": "react-scripts eject"
-  },
-  "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb": "^18.2.1",
-    "eslint-plugin-import": "^2.24.2",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-react": "^7.26.1",
-    "eslint-plugin-react-hooks": "^4.2.0"
   }
->>>>>>> parent of 7dd4453 (Updates)
 }
