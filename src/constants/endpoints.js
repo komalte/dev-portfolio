@@ -8,6 +8,7 @@ const endpoints = {
   education: 'profile/education.json',
   experiences: 'profile/experiences.json',
   projects: 'profile/projects.json',
+  movies: 'https://komalte.azurewebsites.net/api/v2/boxd/komalte',
 };
 
 export default endpoints;

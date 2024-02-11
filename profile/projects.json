@@ -1,0 +1,63 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/devporfolio.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React (fork from mayankagarwal09)\n -  Fully customizable and dynamic, easily change data and images.\n - Dark Mode Support\n - **Ongoing💻**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/komalte/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://komalte.github.io"
+                }
+                ,{
+                    "text": "Original",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/steam-connect.png",
+            "title": "(WIP) Steam-Connect",
+            "bodyText": "- NodeJS-Application which connects to your steam account via official API\n - Tracks reached/open achievements\n - downloads artworks for games using SteamGridDB\n - **currently work in progress (nothing to share yet)**",
+            "tags" : [
+                "NodeJS",
+                "Steam",
+                "Express",
+                "FaunaDB",
+                "Backend",
+                "WIP"
+            ]
+        },
+        {
+            "image" : "images/projects/letterboxd.png",
+            "title": "letterBoxD ReactApp",
+            "bodyText": "- FERN-Stack (FaunaDB, Express, React, NodeJS)\n - uses the rss-Feed of letterbox.com to get latest watched movies of users\n - transforms to a Rest-API (and saves searches to the FaunaDB)\n - WebApp (React + NextUI) let's you search user and shows their movie-history\n - hosted on Azure\n - **still work in progress**",
+            "links": [
+                {
+                    "text": "Demo (search for komalte)",
+                    "href": "http://komalte.azurewebsites.net/boxd"
+                }
+            ],
+            "tags" : [
+                "NodeJS",
+                "Express",
+                "React",
+                "NextUI",
+                "FaunaDB",
+                "RSS",
+                "Rest-API",
+                "Azure",
+                "WIP"
+            ]
+        }
+    ]
+}
