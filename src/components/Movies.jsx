@@ -46,7 +46,7 @@ const Movies = (props) => {
       <div className="section-content-container">
         <Container>
           <Row style={styles.containerStyle}>
-            Here are my recently watched movies, which i rated on letterboxd. Please check my
+            Here are my recently watched movies (which might take a moment to load), which i rated on letterboxd. Please check my
             profile below 👇
           </Row>
           <Row style={styles.containerStyle}>
@@ -80,7 +80,7 @@ const Movies = (props) => {
           </div>
         ) : <FallbackSpinner/>}
 
-      <div style={styles.mainContainer}>
+      <div className="section-content-container">
         <Container>
           <Row>
             If you wanna know more about where this data comes from, please check below: <Link to="/projects">Projects</Link>
